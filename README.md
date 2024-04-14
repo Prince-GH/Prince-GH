@@ -13,10 +13,10 @@
 <p>&nbsp;<img align="center" height=150px src="https://github-readme-stats.vercel.app/api?username=prince-gh&show_icons=true&theme=dark&locale=en" alt="prince-gh" /></p><br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prince-gh&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=prince-gh&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🌟 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prince-gh&limit=5&theme=light&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=prince-gh&limit=5&theme=discord&combine_all_yearly_contributions=true)
 
 ## 🧭 Languages:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css)](https://skillicons.dev)

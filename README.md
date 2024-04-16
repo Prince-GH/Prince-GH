@@ -1,5 +1,4 @@
 [![gif](gif2.gif)](https://github.com/Prince-GH/Prince-GH/blob/main/index.html)
-# Hi 👋, I'm Prince Kumar
 
 ## 📈Stats
 

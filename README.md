@@ -2,5 +2,5 @@
 
 ## 📈Stats
 
-![Data](https://github-readme-streak-stats.herokuapp.com/?user=prince-gh&theme=light&hide_border=true)
+![Data](https://github-readme-streak-stats.herokuapp.com/?user=prince-gh&theme=none&hide_border=true)
 

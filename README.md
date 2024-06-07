@@ -4,60 +4,20 @@
 <p align="left">
 
 # Skills
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript,php,md,arduino)](https://skillicons.dev)
 
-<table style="width:100%; border-collapse: collapse;">
-  <thead>
-    <tr>
-      <th style="padding: 10px; text-align: left; border-bottom: 1px solid #444;">Category</th>
-      <th style="padding: 10px; text-align: left; border-bottom: 1px solid #444;">Icons</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 10px; text-align: left; border-bottom: 1px solid #444;">Programming Languages</td>
-      <td style="padding: 10px; text-align: left; border-bottom: 1px solid #444;">
-        <i class="fab fa-html5" style="font-size: 24px; margin-right: 10px;"></i>
-        <i class="fab fa-css3-alt" style="font-size: 24px; margin-right: 10px;"></i>
-        <i class="fab fa-js" style="font-size: 24px; margin-right: 10px;"></i>
-        <i class="fab fa-python" style="font-size: 24px; margin-right: 10px;"></i>
-        <i class="fab fa-java" style="font-size: 24px; margin-right: 10px;"></i>
-        <i class="fab fa-c" style="font-size: 24px; margin-right: 10px;"></i>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; text-align: left; border-bottom: 1px solid #444;">Frameworks</td>
-      <td style="padding: 10px; text-align: left; border-bottom: 1px solid #444;">
-        <i class="fab fa-bootstrap" style="font-size: 24px; margin-right: 10px;"></i>
-        <i class="fab fa-react" style="font-size: 24px; margin-right: 10px;"></i>
-        <img src="path/to/your/exjs-icon.png" alt="Express.js" style="width: 24px; height: 24px; margin-right: 10px;" />
-        <i class="fab fa-node-js" style="font-size: 24px; margin-right: 10px;"></i>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; text-align: left; border-bottom: 1px solid #444;">Libraries</td>
-      <td style="padding: 10px; text-align: left; border-bottom: 1px solid #444;">
-        <img src="path/to/your/vite-icon.png" alt="Vite" style="width: 24px; height: 24px; margin-right: 10px;" />
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; text-align: left; border-bottom: 1px solid #444;">Tools</td>
-      <td style="padding: 10px; text-align: left; border-bottom: 1px solid #444;">
-        <i class="fab fa-git" style="font-size: 24px; margin-right: 10px;"></i>
-        <i class="fab fa-github" style="font-size: 24px; margin-right: 10px;"></i>
-        <i class="fab fa-visual-studio" style="font-size: 24px; margin-right: 10px;"></i>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; text-align: left; border-bottom: 1px solid #444;">Databases</td>
-      <td style="padding: 10px; text-align: left; border-bottom: 1px solid #444;">
-        <img src="path/to/your/mysql-icon.png" alt="MySQL" style="width: 24px; height: 24px; margin-right: 10px;" />
-        <img src="path/to/your/mongodb-icon.png" alt="MongoDB" style="width: 24px; height: 24px; margin-right: 10px;" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+### Frameworks
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,express,nodejs)](https://skillicons.dev)
 
+### Libraries
+[![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
 
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=github,git,figma,vscode)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 
 

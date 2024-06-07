@@ -6,7 +6,7 @@
 <html>
 <head>
 </head>
-<body style="width=100%;">
+<body style="width=100vw;">
 
 <table style="border-collapse: collapse; width: 100%; margin: 20px 0;">
     <tr>

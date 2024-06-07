@@ -3,7 +3,7 @@
 
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,bootstrap,javascript,php,github,git,mysql,aws,typescript,python,nextjs,react,materialui,figma,firebase,express,mongodb,nodejs,appwrite,tailwind,vscode,threejs,redux,redis,prisma,netlify,vercel,vite,md,,&=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,c++,java,html,css,bootstrap,javascript,php,github,git,mysql,react,figma,express,mongodb,nodejs,vscode,vite,md,arduino,&=5)](https://skillicons.dev)
 
 
 

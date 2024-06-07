@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<table style="border-collapse: collapse; width: 100%; margin: 20px 0;">
+<table style="border-collapse: collapse; width: 300%; margin: 20px 0;">
     <tr>
         <th style="border: 2px solid; padding: 10px; text-align: center; background-color: #f2f2f2; width: 50%;">Category</th>
         <th style="border: 2px solid; padding: 10px; text-align: center; background-color: #f2f2f2; width: 50%;">Icons</th>

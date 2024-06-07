@@ -5,61 +5,48 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 100%;
-            margin: 20px 0;
-        }
-        th, td {
-            border: 2px solid;
-            padding: 10px;
-            text-align: center;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-        /* Multicolor border */
-        td:nth-child(1) {
-            border-color: red;
-        }
-        td:nth-child(2) {
-            border-color: blue;
-        }
-    </style>
 </head>
 <body>
 
-<table>
+<table style="border-collapse: collapse; width: 100%; margin: 20px 0;">
     <tr>
-        <th>Category</th>
-        <th>Icons URL</th>
+        <th style="border: 2px solid; padding: 10px; text-align: center; background-color: #f2f2f2;">Category</th>
+        <th style="border: 2px solid; padding: 10px; text-align: center; background-color: #f2f2f2;">Icons</th>
     </tr>
     <tr>
-        <td>Programming Languages</td>
-        <td><a href="https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript,php,md,arduino">Link</a></td>
+        <td style="border: 2px solid; padding: 10px; text-align: center;">Programming Languages</td>
+        <td style="border: 2px solid; padding: 10px; text-align: center;">
+            <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript,php,md,arduino" alt="Programming Languages" style="width: 100px; height: auto;">
+        </td>
     </tr>
     <tr>
-        <td>Frameworks</td>
-        <td><a href="https://skillicons.dev/icons?i=bootstrap,react,express,nodejs">Link</a></td>
+        <td style="border: 2px solid; padding: 10px; text-align: center;">Frameworks</td>
+        <td style="border: 2px solid; padding: 10px; text-align: center;">
+            <img src="https://skillicons.dev/icons?i=bootstrap,react,express,nodejs" alt="Frameworks" style="width: 100px; height: auto;">
+        </td>
     </tr>
     <tr>
-        <td>Libraries</td>
-        <td><a href="https://skillicons.dev/icons?i=vite">Link</a></td>
+        <td style="border: 2px solid; padding: 10px; text-align: center;">Libraries</td>
+        <td style="border: 2px solid; padding: 10px; text-align: center;">
+            <img src="https://skillicons.dev/icons?i=vite" alt="Libraries" style="width: 100px; height: auto;">
+        </td>
     </tr>
     <tr>
-        <td>Tools</td>
-        <td><a href="https://skillicons.dev/icons?i=github,git,figma,vscode">Link</a></td>
+        <td style="border: 2px solid; padding: 10px; text-align: center;">Tools</td>
+        <td style="border: 2px solid; padding: 10px; text-align: center;">
+            <img src="https://skillicons.dev/icons?i=github,git,figma,vscode" alt="Tools" style="width: 100px; height: auto;">
+        </td>
     </tr>
     <tr>
-        <td>Databases</td>
-        <td><a href="https://skillicons.dev/icons?i=mysql,mongodb">Link</a></td>
+        <td style="border: 2px solid; padding: 10px; text-align: center;">Databases</td>
+        <td style="border: 2px solid; padding: 10px; text-align: center;">
+            <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" style="width: 100px; height: auto;">
+        </td>
     </tr>
 </table>
 
 </body>
 </html>
-
 
 
 
